@@ -82,6 +82,7 @@ public class PrincipalActivity extends Activity implements OnClickListener{
 
     //no hace nada
     //y esto como para que mi estimado
+    //estoy haciendo pruebas
     /*private void getDate(){
 
     }*/
