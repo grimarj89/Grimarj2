@@ -80,8 +80,4 @@ public class PrincipalActivity extends Activity implements OnClickListener{
         return arrayList;
     }
 
-
-    private void getDate(){
-
-    }
 }
