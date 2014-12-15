@@ -79,4 +79,9 @@ public class PrincipalActivity extends Activity implements OnClickListener{
 
         return arrayList;
     }
+
+    //no hace nada
+    /*private void getDate(){
+
+    }*/
 }
