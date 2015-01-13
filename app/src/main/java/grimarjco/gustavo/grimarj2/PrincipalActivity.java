@@ -34,6 +34,11 @@ public class PrincipalActivity extends Activity implements OnClickListener{
     }
 
 
+
+
+
+
+    //otro comentario
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
