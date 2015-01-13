@@ -69,7 +69,7 @@ public class PrincipalActivity extends Activity implements OnClickListener{
         builder.create().show();
     }
 
-
+    //creacion de dataset
     private ArrayList<TestModel> getArray(){
         ArrayList<TestModel> arrayList = new ArrayList<TestModel>();
 
