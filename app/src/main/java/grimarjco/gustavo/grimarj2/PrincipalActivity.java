@@ -17,6 +17,8 @@ import modelos.TestModel;
 
 public class PrincipalActivity extends Activity implements OnClickListener{
 
+
+    //widget
     Button button;
 
     @Override
